@@ -14,6 +14,7 @@ python = "^3.6"
 pyusb = "^1.0.2"
 construct = "^2.9.51"
 pyyaml = "^5.3"
+click
 
 [tool.poetry.dev-dependencies]
 
